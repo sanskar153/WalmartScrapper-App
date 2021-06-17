@@ -1,9 +1,9 @@
 # WalmartScrapper-App
-Using Nodejs,Express and MongoDB
+Using Nodejs, Express, and MongoDB
 <br>
 
-A simple scrapper App which fetch details of the product like its price and stock availability via its product link from walmart site. <br>
-It is Single Authenticated App so if you want to access then contact me i will generate a separate Login Id and Paswword.<br>
+A simple scraper App that fetches details of the product like its price and stock availability via its product link from the Walmart site. <br>
+It is Single Authenticated App so if you want to access then contact me I will generate a separate Login Id and Password.<br>
 The info is stored in MongoDB as a backend.
 
 # Link To The Website
