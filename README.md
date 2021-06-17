@@ -18,7 +18,7 @@ Just add the pacakages and change the config.env file<br>
 
 Packages :<br> 
 npm i express path body-parser dotenv connect-flash mongoose express-session passport passport-local nodemailer async crypto --save<br>
-           npm i ejs passport -local mongoose method-override puppeteer cheerio --save
+           npm i ejs passport-local mongoose method-override puppeteer cheerio --save
 
 # Screenshots
 
