@@ -3,7 +3,7 @@ Using Nodejs, Express, and MongoDB
 <br>
 
 A simple scraper App that fetches details of the product like its price and stock availability via its product link from the Walmart site. <br>
-It is Single Authenticated App so if you want to access then contact me I will generate a separate Login Id and Password.<br>
+It is a single user Authenticated App so if you want to access then contact me I will generate a separate Login Id and Password for you.<br>
 The info is stored in MongoDB as a backend.
 
 # Link To The Website
