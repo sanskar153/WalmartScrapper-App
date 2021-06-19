@@ -12,7 +12,7 @@ The info is stored in MongoDB as a backend.
 
 
 
-# Want to deploy...
+# Want to install...
 
 Just add the pacakages and change the config.env file<br>
 
